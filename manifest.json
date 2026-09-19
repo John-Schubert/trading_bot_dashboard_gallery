@@ -1,0 +1,24 @@
+{
+  "title": "Trading Bot Dashboard — Screenshot Gallery",
+  "views": [
+    { "key": "overview",   "label": "Overview" },
+    { "key": "analytics",  "label": "Analytics" },
+    { "key": "exceptions", "label": "Exceptions" },
+    { "key": "timeline",   "label": "Timeline" },
+    { "key": "system",     "label": "System" }
+  ],
+  "entries": [
+    {
+      "date": "2026-09-18",
+      "folder": "2026-09-18",
+      "note": "Add realized P&L tracking, public price charts, and dashboard views",
+      "images": {
+        "overview": "overview.png",
+        "analytics": "analytics.png",
+        "exceptions": "exceptions.png",
+        "timeline": "timeline.png",
+        "system": "system.png"
+      }
+    }
+  ]
+}
