@@ -46,6 +46,18 @@
         "system": "system.png"
       },
       "note": "Equity breakdown (Available/In Play), no more internal card scrolling, drag-to-reorder + collapsible cards"
+    },
+    {
+      "date": "2026-09-29",
+      "folder": "2026-09-29",
+      "images": {
+        "overview": "overview.png",
+        "analytics": "analytics.png",
+        "exceptions": "exceptions.png",
+        "timeline": "timeline.png",
+        "system": "system.png"
+      },
+      "note": "Configurable symbols (now SOL-USD and GEOD-USD), non-destructive shadow-account reset, 0.9% fee assumption, and dashboard totals that respect the reset"
     }
   ]
 }
