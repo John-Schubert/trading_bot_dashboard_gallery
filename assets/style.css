@@ -45,6 +45,15 @@ body {
   margin: 0;
 }
 
+.doc-links {
+  margin: 10px 0 0;
+  font-size: 0.95rem;
+}
+
+.doc-links a {
+  color: var(--accent);
+}
+
 #timeline {
   max-width: 1000px;
   margin: 0 auto;

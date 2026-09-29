@@ -9,6 +9,15 @@ those screenshots viewable without exposing anything else about the project.
 Newest capture is shown first; scroll down to see how the dashboard has
 looked over time. Click any thumbnail for a full-size view.
 
+## How it was built
+
+- [`docs/CLAUDE.md`](docs/CLAUDE.md) - the working context file Claude Code
+  loads every session: architecture, the decision-audit-trail design, safety
+  rules (shadow mode only, credential isolation, manual kill switch), and the
+  file-ownership split between the planning chat and Claude Code.
+- [`docs/PLANNING_CHAT_SYNC.md`](docs/PLANNING_CHAT_SYNC.md) - the log kept
+  whenever Claude Code touched a file owned by the planning chat.
+
 ## Adding a new snapshot
 
 Whenever the dashboard's look changes and you want to record it:
